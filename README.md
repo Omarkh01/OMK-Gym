@@ -1,4 +1,4 @@
-https://ox-gym.netlify.app/
+https://omk-gym.netlify.app/
 
 # Getting Started with Create React App
 
